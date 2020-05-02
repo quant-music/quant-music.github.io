@@ -1,0 +1,13 @@
+@media (min-width: 700px) {
+	.list .social {width: 50%;}
+}
+@media (min-width: 900px) {
+	.list .social {width: 35%;}
+}
+@media (min-width: 1200px) {
+	.list .social {width: 25%;}
+	.bg {height: 100vh; position: absolute; z-index: 0;}
+	.logo {display: none;}
+	.list, .footer {z-index: 999;}
+	.cover {display: block; opacity: 0.9;}
+}
