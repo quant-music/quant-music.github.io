@@ -120,6 +120,7 @@ body {
 #a4 {animation-delay: 2.5s !important; animation: social 1s ease; background-color: #F86110;}
 #a5 {animation-delay: 3s !important; animation: social 1s ease; background-color: #31A8E0;}
 #a6 {animation-delay: 3.5s !important; animation: social 1s ease; background: linear-gradient(to right, #000, #000);}
+#a7 {animation-delay: 4s !important; animation: social 1s ease; background-color: #ff0000;}
 
 .cover {
 	display: none;
